@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather Report</string>
+    <string name="text_hint_search">请输入待查询城市（中文）</string>
+    <string name="text_label_recommend">推荐城市</string>
+    <string name="btn_label_search">查询</string>
+</resources>

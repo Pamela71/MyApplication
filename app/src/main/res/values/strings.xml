@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Report</string>
+    <string name="text_hint_search">Please input the city</string>
+    <string name="text_label_recommend">recommend city</string>
+    <string name="btn_label_search">search</string>
+
+</resources>
